@@ -27,3 +27,6 @@ Expected sales for the upcoming months.
 2. Inbound Transportation Time: This represents the time taken for transporting goods or materials from the supplier or manufacturer's location to the receiving location.
 3. Goods Receipt Processing Time: This is the time taken to process goods upon arrival at the receiving location.
 4. Total Inbound Time: The total time spent in production, inbound transportation, and goods receipt processing. It provides an overall view of the duration from initiating production to completing goods receipt processing, encompassing all relevant stages of the inbound logistics process.
+
+
+![Sopra Steria](img/Original_linkedin_banner_ordina_202309.jpg)
